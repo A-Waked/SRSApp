@@ -3,18 +3,39 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/bg_cards.xml" value="0.2445" />
+        <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/btn_login.xml" value="0.2445" />
+        <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/btn_next.xml" value="0.2445" />
+        <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/btn_signup.xml" value="0.2445" />
+        <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/btn_signup2.xml" value="0.2445" />
+        <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/btn_skip.xml" value="0.2445" />
         <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/deck_item.xml" value="0.2445" />
+        <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/ic_deck_symbol.xml" value="0.2445" />
         <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/ic_fab_add.xml" value="0.2445" />
+        <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/ic_logo.xml" value="0.2445" />
         <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/ic_menu_camera.xml" value="0.2445" />
         <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.2445" />
         <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/ic_menu_home.xml" value="0.2445" />
         <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/ic_menu_stats.xml" value="0.2445" />
         <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/ic_menu_upcoming.xml" value="0.2445" />
         <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/ic_menu_user.xml" value="0.2445" />
+        <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/pg_1.xml" value="0.2445" />
+        <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/side_nav_bar.xml" value="0.2445" />
+        <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/txt_intro1.xml" value="0.2445" />
+        <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/txt_login.xml" value="0.2445" />
+        <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/txt_signup.xml" value="0.2445" />
+        <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_intro1.xml" value="0.33" />
+        <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_intro2.xml" value="0.33" />
+        <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_intro3.xml" value="0.33" />
         <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_main.xml" value="0.3875" />
+        <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_review.xml" value="0.3875" />
+        <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_signup.xml" value="0.33" />
+        <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_splash.xml" value="0.3875" />
         <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/layout/app_bar_main.xml" value="0.33" />
+        <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/layout/card_layout.xml" value="0.5" />
         <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/layout/content_main.xml" value="0.33" />
-        <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/layout/deck_layout.xml" value="0.5" />
+        <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/layout/content_review.xml" value="0.3734375" />
+        <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/layout/deck_layout.xml" value="0.67" />
         <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/layout/fragment_gallery.xml" value="0.3875" />
         <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/layout/fragment_home.xml" value="0.3875" />
         <entry key="..\:/Users/Abdul/AndroidStudioProjects/FinalProject/app/src/main/res/layout/nav_header_main.xml" value="0.3875" />
