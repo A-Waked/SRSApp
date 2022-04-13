@@ -51,8 +51,8 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ItemVi
             @Override
             public void onClick(View view) {
                 if(holder.getAdapterPosition() == 0){
-                    context.startActivity(new Intent(context, ReviewActivity.class));
-                    Toast.makeText(context.getApplicationContext(), "Selected: Deck 1!", Toast.LENGTH_SHORT).show();
+                    context.startActivity(new Intent(context, DeckViewActivity.class));
+                    //Toast.makeText(context.getApplicationContext(), "Selected: Deck 1!", Toast.LENGTH_SHORT).show();
                 }else if(holder.getAdapterPosition() == 1){
                     Toast.makeText(context.getApplicationContext(), "Selected: Deck 2!", Toast.LENGTH_SHORT).show();
                 }else{

@@ -24,7 +24,7 @@ public class IntroActivity1 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_intro1);
 
-        overridePendingTransition(R.anim.slide_in_right,R.anim.slide_out_left);
+        //overridePendingTransition(R.anim.slide_in_right,R.anim.slide_out_left);
 
         btn_next = findViewById(R.id.btn_i1_next);
         btn_skip = findViewById(R.id.btn_i1_skip);

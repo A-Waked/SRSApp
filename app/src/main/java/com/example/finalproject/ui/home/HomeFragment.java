@@ -22,7 +22,7 @@ public class HomeFragment extends Fragment {
 
     private FragmentHomeBinding binding;
 
-    ArrayList<String> al_deckNames = new ArrayList<>();
+    public static ArrayList<String> al_deckNames = new ArrayList<>();
     RecyclerAdapter adapter;
 
     public View onCreateView(@NonNull LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
@@ -34,9 +34,6 @@ public class HomeFragment extends Fragment {
         final TextView textView = binding.textHome;
         final RecyclerView recyclerView = binding.recyclerView;
         homeViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
-
-        al_deckNames.add("Deck 1");
-        al_deckNames.add("Deck 2");
 
         adapter = new RecyclerAdapter(this.getContext(), al_deckNames);
         LinearLayoutManager llm = new LinearLayoutManager(this.getContext());
