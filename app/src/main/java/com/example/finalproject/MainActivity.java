@@ -1,6 +1,7 @@
 package com.example.finalproject;
 
 import android.app.Activity;
+import android.content.Context;
 import android.content.Intent;
 import android.graphics.Color;
 import android.os.Build;
@@ -33,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
 
         super.onCreate(savedInstanceState);
 
-        overridePendingTransition(R.anim.slide_in_right,R.anim.slide_out_left);
+        //overridePendingTransition(R.anim.slide_in_right,R.anim.slide_out_left);
 
         binding = ActivityMainBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
@@ -45,11 +46,13 @@ public class MainActivity extends AppCompatActivity {
         window.setStatusBarColor(Color.TRANSPARENT);
 
         setSupportActionBar(binding.appBarMain.toolbar);
+
+        Context context = this;
+
         binding.appBarMain.fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
+                context.startActivity(new Intent(context, AddDeckActivity.class));
             }
         });
         DrawerLayout drawer = binding.drawerLayout;

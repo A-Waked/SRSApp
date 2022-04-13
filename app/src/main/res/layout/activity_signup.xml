@@ -61,7 +61,7 @@
         android:ems="10"
         android:gravity="center|left"
         android:hint="password"
-        android:inputType="textPersonName"
+        android:inputType="textPersonName|textPassword"
         android:textColorHint="#A1A1A1"
         android:textSize="14sp"
         app:layout_constraintStart_toStartOf="parent"

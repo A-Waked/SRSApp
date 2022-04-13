@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FinalProject">
         <activity
+            android:name=".AddDeckActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AddCardActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DeckViewActivity2"
+            android:exported="false" />
+        <activity
             android:name=".SignupActivity"
             android:exported="false" />
         <activity
